@@ -1,0 +1,26 @@
+_repo: Lays-of-Ancient-Virginia-and-Other-Poems_16735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bartley, James Avis
+    birthdate: 1830
+    gutenberg_agent_id: '6898'
+    url: http://www.gutenberg.org/2009/agents/6898
+description: ''
+gutenberg_issued: '2005-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16735'
+  lccn: '18023964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: Lays of Ancient Virginia, and Other Poems
+url: http://www.gutenberg.org/ebooks/16735
